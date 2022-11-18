@@ -6,3 +6,5 @@
 - 🤔 I’m looking for help with Backend Projects
 - 💬 Ask me about HTML, CSS, JS
 - ⚡ Fun fact: I love sketching & designing  
+
+![xoshiraghavx's github stats](https://github-readme-stats.vercel.app/api?username=xoshiraghavx)
