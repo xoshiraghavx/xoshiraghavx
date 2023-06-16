@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Web Designing
 - 🤔 I’m looking for help with Sass
-- 💬 Ask me about HTML, CSS, JS
+- 💬 Ask me about HTML, CSS, JS, React
 - ⚡ Fun fact: I love sketching & designing  
