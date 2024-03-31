@@ -10,18 +10,19 @@ My specialties include quickly learning new skills and programming languages, pr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoshiraghavx&label=Profile%20views&color=0e75b6&style=flat" alt="xoshiraghavx"/> </p>
 
 <p align="left"> <a href="https://twitter.com/xoshiraghavx" target="blank"><img src="https://img.shields.io/twitter/follow/xoshiraghavx?logo=twitter&style=for-the-badge" alt="xoshiraghavx"/></a> </p>
-
-- 🔭 I’m currently working on **My Career**
-
-- 🌱 I’m currently learning **MERN**
-
-- 📝 I write articles <a href="https://medium.com/@xoshiraghavx">Here</a>.
-
-- 💬 Ask me about **HTML, CSS, JS, React**
-
-- 📫 How to reach me **raghavoshi31@gmail.com**
-
-- ⚡ Fun fact **I love sketching & designing**
+<div align="left">
+ - 🔭 I’m currently working on **My Career**
+ 
+ - 🌱 I’m currently learning **MERN**
+ 
+ - 📝 I write articles <a href="https://medium.com/@xoshiraghavx">Here</a>.
+ 
+ - 💬 Ask me about **HTML, CSS, JS, React**
+ 
+ - 📫 How to reach me **raghavoshi31@gmail.com**
+ 
+ - ⚡ Fun fact **I love sketching & designing**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
