@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://helpinggeeks.com)</br>
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://oshi-raghav-portfolio.netlify.app)</br>
 <div align="center"><hr/><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=40&pause=1000&center=true&random=false&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Oshi%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;Nice+to+Meet+You%F0%9F%98%8A" alt="Typing SVG"/>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <p align="center">
