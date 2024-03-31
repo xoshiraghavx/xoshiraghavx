@@ -11,6 +11,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
 <p align="left"> <a href="https://twitter.com/xoshiraghavx" target="blank"><img src="https://img.shields.io/twitter/follow/xoshiraghavx?logo=twitter&style=for-the-badge" alt="xoshiraghavx"/></a> </p>
 <div align="left">
+
  - 🔭 I’m currently working on **My Career**
  
  - 🌱 I’m currently learning **MERN**
